@@ -7,4 +7,6 @@ public static void main(String args[]){
 
 public void m3(){
 }
+
+public voif m4(){}
 }
